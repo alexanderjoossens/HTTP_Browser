@@ -2,6 +2,8 @@
 
 How to run:
 
+First install the beautifulsoup4 package using pip3 install beautifulsoup4
+
 Server
 python3 localhost/server.py
 
@@ -21,3 +23,4 @@ python3 client.py PUT localhost/file.txt 5055
 
 You can also open the client in a browser using http://IP:PORT
 example: http://192.168.2.7:5055/
+
