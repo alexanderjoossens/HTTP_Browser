@@ -1,4 +1,4 @@
-from bs4 import BeautifulSoup
+from bs4 import BeautifulSoup  # html parser to look for images
 import os
 import sys
 HEADER = 4096
